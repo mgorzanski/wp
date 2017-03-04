@@ -15,11 +15,12 @@ article.post-sidebar {
     border:1px solid #DFDFDF;
     padding:6px;
     margin-bottom:10px;
+    position:relative;
 }
 
 .post-sidebar-thumbnail {
     padding:6px;
-    margin-bottom:-70px;
+    margin-bottom:-3px;
 }
 
 .post-sidebar-thumbnail img {
@@ -35,8 +36,6 @@ article.post-sidebar {
 }
 
 h2.post-sidebar-title {
-    position:relative;
-    bottom:62px;
     margin-left:6px;
 }
 
