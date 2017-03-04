@@ -1,0 +1,93 @@
+html, body {
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+    min-width:1200px;
+}
+
+.container {
+    margin:0 auto;
+    width:72%;
+}
+
+header {
+    border-bottom:1px solid #333;
+}
+
+.logo {
+    float:left;
+    width:50%;
+}
+
+.header-ad {
+    float:right;
+    width:50%;
+}
+
+.logo h1 a {
+    font-size:44px;
+    font-family: 'Droid Sans', sans-serif;
+    text-decoration:none;
+    color:#000;
+    text-transform: uppercase;
+}
+
+.navigation {
+    clear:both;
+}
+
+nav.header-nav {
+    float:left;
+    width:80%;
+}
+
+.search-bar {
+    float:right;
+    width:20%;
+}
+
+ul.header-menu, ul.header-menu li {
+    float:left;
+    list-style:none;
+    margin:0;
+    padding:0;
+    display:block;
+}
+
+ul.header-menu {
+    width:100%;
+}
+
+ul.header-menu a:link, ul.header-menu a:visited {
+    display:block;
+    text-decoration: none;
+    color:#000;
+    padding:14px 10px;
+    text-transform: uppercase;
+}
+
+ul.header-menu a:hover {
+    text-decoration: underline;
+}
+
+.search-bar input {
+    border:1px solid #333;
+    padding:10px;
+    width:220px;
+    float:right;
+}
+
+.page-content {
+    clear:both;
+    overflow:hidden;
+    margin-top:70px;
+}
+
+footer {
+    clear:both;
+    border-top:1px solid #333;
+}
+
+footer p {
+    text-align: center;
+}
