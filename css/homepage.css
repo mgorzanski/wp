@@ -4,6 +4,14 @@ section.main {
     margin-top:5px;
 }
 
+.posts {
+    overflow:hidden;
+    position:relative;
+    width:100%;
+    float:left;
+    margin-top:19px;
+}
+
 .posts-category {
     overflow:hidden;
     position:relative;
