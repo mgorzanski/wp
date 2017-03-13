@@ -50,12 +50,12 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image1.jpg" alt="" /></a>
+                                                    <a href="post.php"><img src="images/thumbnails/409x252/image1.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
                                                     <div class="post-inner-title">
-                                                        <h2 class="post-title"><a href="#">Młodzi ludzie przyszli tu i grają w stare gry wideo. Piękna lekcja historii</a></h2>
+                                                        <h2 class="post-title"><a href="post.php">Młodzi ludzie przyszli tu i grają w stare gry wideo. Piękna lekcja historii</a></h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -130,13 +130,7 @@
                                                 </div>
                                             </div>
                                         </article>
-                                    </div>
-                                </div>
-                            </div>
 
-                            <div class="posts">
-                                <div class="row">
-                                    <div class="box">
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
