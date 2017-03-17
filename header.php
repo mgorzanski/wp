@@ -57,7 +57,7 @@
     <header class="header-static">
         <div class="top">
             <div class="logo">
-                <h1><a href="index.php">Webowo.pl</a></h1>
+                <a href="index.php"><img src="images/logo.jpg" alt="Webowo.pl" /></a>
             </div>
         </div>
 
@@ -95,7 +95,7 @@
             </nav>
 
             <div class="search-bar">
-                <a href="#"><img src="images/icons/search.png" alt="Szukaj" width="32" height="32" /></a>
+                <a href="#"><img src="images/icons/search.png" alt="Szukaj" width="26" height="26" /></a>
             </div>
         </div>
     </header>

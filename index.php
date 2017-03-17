@@ -238,10 +238,7 @@
                     </div>
                 </div>
 
-                <div class="posts-category">
-                    <div class="posts-category-header">
-                        <h2 class="posts-category-title">Polecane</h2>
-                    </div>
+                <div class="posts">
                     <div class="row">
                         <article class="col-md-12 center-post">
                             <div class="box">
