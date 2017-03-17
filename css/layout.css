@@ -11,7 +11,7 @@ html, body {
 }
 
 header.header-static .top {
-    border-bottom:1px solid #5a9ae5;
+    border-bottom:1px solid #7dbebd;
     float:left;
     width:100%;
 }
@@ -20,19 +20,6 @@ header.header-static .logo {
     width:1325px;
     margin:31px auto 0 auto;
 }
-
-/*header.header-static .logo h1 {
-    margin:40px 0 0 0;
-    padding:0;
-}
-
-header.header-static .logo h1 a {
-    font-size:44px;
-    font-family: 'Droid Sans', sans-serif;
-    text-decoration:none;
-    color:#000;
-    text-transform: uppercase;
-}*/
 
 header.header-static .navigation {
     clear:both;
@@ -45,17 +32,25 @@ header.header-static nav.header-nav {
     width:80%;
 }
 
-header.header-static .search-bar {
+nav.links-nav {
     float:right;
     width:20%;
     margin-top:8px;
 }
 
-header.header-static .search-bar input {
-    padding:6px;
-    width:240px;
+ul.links-menu, ul.links-menu li {
+    display:block;
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+
+ul.links-menu {
     float:right;
-    border:1px solid #5a9ae5;
+}
+
+ul.links-menu li {
+    float:left;
 }
 
 header.header-static ul.header-menu, header.header-static ul.header-menu li {
@@ -68,6 +63,7 @@ header.header-static ul.header-menu, header.header-static ul.header-menu li {
 
 header.header-static ul.header-menu {
     width:100%;
+    margin-top:10px;
 }
 
 header.header-static ul.header-menu a:link, header.header-static ul.header-menu a:visited {
@@ -84,7 +80,7 @@ header.header-static ul.header-menu a:hover {
 
 header.header-fixed {
     display:none;
-    background-color:#0263d7;
+    background-color:#7dbebd;
     width:100%;
     line-height: 76px;
     padding:0;
@@ -100,41 +96,26 @@ header.header-fixed .top {
 
 header.header-fixed .logo {
     float:left;
-    background-color:#0263d7;
+    background-color:#7dbebd;
+    margin-top:-4px;
+    margin-bottom:-44px;
 }
 
-header.header-fixed .logo h1 {
+header.header-fixed .logo img {
     padding:0;
-    margin:0;
-}
-
-header.header-fixed .logo h1 a {
-    font-size:36px;
-    font-family: 'Droid Sans', sans-serif;
-    text-decoration:none;
-    color:#fff;
-    text-transform: uppercase;
-    padding-right:13px;
-    border-right:2px solid #fff;
+    margin-bottom:-45px;
 }
 
 header.header-fixed nav.header-nav {
     float:left;
-    background-color:#0263d7;
+    background-color:#7dbebd;
     width:auto;
-    line-height: 77px;
+    line-height: 90px;
 }
 
-header.header-fixed .search-bar {
-    float:right;
-    background-color:#0263d7;
-    width:auto;
-    line-height: 77px;
-}
-
-header.header-fixed .search-bar img {
-    margin-top:10px;
-    margin-bottom:-10px;
+header.header-fixed nav.links-nav ul.links-menu {
+    margin-top:12px;
+    margin-bottom:-12px;
 }
 
 header.header-fixed ul.header-menu, header.header-fixed ul.header-menu li {
@@ -153,9 +134,10 @@ header.header-fixed ul.header-menu {
 header.header-fixed ul.header-menu a:link, header.header-fixed ul.header-menu a:visited {
     display:block;
     text-decoration: none;
-    color:#fff;
+    color:#000;
     text-transform: uppercase;
     margin-right:27px;
+    font-weight: bold;
 }
 
 header.header-fixed ul.header-menu a:hover {

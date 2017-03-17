@@ -57,7 +57,7 @@
     <header class="header-static">
         <div class="top">
             <div class="logo">
-                <a href="index.php"><img src="images/logo.jpg" alt="Webowo.pl" /></a>
+                <a href="index.php"><img src="images/logo.png" alt="Webowo.pl" /></a>
             </div>
         </div>
 
@@ -72,17 +72,19 @@
                 </ul>
             </nav>
 
-            <div class="search-bar">
-                <form action="" method="get">
-                    <input type="search" name="s" placeholder="Szukaj..." />
-                </form>
-            </div>
+            <nav class="links-nav">
+                <ul class="links-menu">
+                    <li><a href="#"><img src="images/icons/fb.png" alt="Facebook" /></a>
+                    <li><a href="#"><img src="images/icons/yt.png" alt="Youtube" /></a>
+                    <li><a href="#"><img src="images/icons/search.png" alt="Szukaj" /></a>
+                </ul>
+            </nav>
         </div>
     </header>
     <header class="header-fixed">
         <div class="top">
             <div class="logo">
-                <h1><a href="#">Webowo.pl</a></h1>
+                <a href="#"><img src="images/logo.png" alt="Webowo.pl" /></a>
             </div>
             <nav class="header-nav">
                 <ul class="header-menu">
@@ -94,8 +96,12 @@
                 </ul>
             </nav>
 
-            <div class="search-bar">
-                <a href="#"><img src="images/icons/search.png" alt="Szukaj" width="26" height="26" /></a>
-            </div>
+            <nav class="links-nav">
+                <ul class="links-menu">
+                    <li><a href="#"><img src="images/icons/fb.png" alt="Facebook" /></a>
+                    <li><a href="#"><img src="images/icons/yt.png" alt="Youtube" /></a>
+                    <li><a href="#"><img src="images/icons/search.png" alt="Szukaj" /></a>
+                </ul>
+            </nav>
         </div>
     </header>
