@@ -226,8 +226,8 @@
                                 <h2 class="sidebar-title">Gorące tematy</h2>
                                 <nav class="sidebar-posts-nav">
                                     <ul class="sidebar-posts-menu">
-                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
-                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
+                                        <li><a href="#">Ten laptop jest mocniejszy od prawie każdego peceta. Kosztuje 45 tys. zł i teraz możesz go wypróbować</a></li>
+                                        <li><a href="#">Młodzi ludzie przyszli tu i grają w stare gry wideo. Piękna lekcja historii</a></li>
                                         <li><a href="#">Nazwa posta Nazwa posta Nazwa posta Nazwa posta</a></li>
                                         <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
                                         <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
