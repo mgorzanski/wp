@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="css/homepage.css" type="text/css" />
     <link rel="stylesheet" href="css/sidebar.css" type="text/css" />
     <link rel="stylesheet" href="css/post-full.css" type="text/css" />
+    <link rel="shortcut icon" href="images/icons/favicon.ico" type="image/x-icon" />
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src="js/jssor.slider-22.2.11.min.js" type="text/javascript"></script>
     <script type="text/javascript">
