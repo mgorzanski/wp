@@ -1,4 +1,94 @@
-section.post-thumbnail-full img {
-    margin:0;
-    padding:0;
+.container-post {
+    margin:0 auto;
+    padding-top:10px;
+    width:1150px;
+}
+
+
+.post-thumbnail-full {
+    position:relative;
+    overflow:hidden;
+}
+
+.post-full .post-inner-title h2.post-title {
+    font-size:40px;
+    color:#fff;
+    padding:12px;
+}
+
+.post-full .post-inner-title {
+    position:absolute;
+    bottom:30px;
+    left:0;
+    right:0;
+    margin-right:1px;
+    padding:7px;
+}
+
+.post-full .post-inner-date {
+    position:absolute;
+    top:357px;
+    left:0;
+    right:0;
+    margin-left:6px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.post-full .post-inner-date span.post-date {
+    color:#DFDFDF;
+    font-size:21px;
+    padding:12px;
+}
+
+.post-header {
+    float:left;
+    width:100%;
+    line-height: 40px;
+}
+
+p.post-author, p.post-category {
+    float:left;
+    margin-right:85px;
+    margin-left:22px;
+}
+
+p.post-author a:link, p.post-author a:visited, p.post-category a:link, p.post-category a:visited {
+    text-decoration:none;
+    color:#333;
+    font-size:18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+p.post-author a:hover, p.post-category a:hover {
+    text-decoration: underline;
+    color:#333;
+}
+
+p.post-comments-bt {
+    float:right;
+}
+
+p.post-comments-bt a:link, p.post-comments-bt a:visited {
+    text-decoration:none;
+    color:#333;
+    font-size:18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border:3px solid #333;
+    padding:5px;
+    margin-right:22px;
+}
+
+p.post-comments-bt a:hover {
+    border:3px solid #333;
+    background-color: #333;
+    color:#fff;
+    text-decoration: none;
+}
+
+.post-content-full {
+    clear:both;
+    border-top:1px solid #333;
+    font-size:22px;
 }
