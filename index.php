@@ -231,6 +231,8 @@
                                         <li><a href="#">Nazwa posta Nazwa posta Nazwa posta Nazwa posta</a></li>
                                         <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
                                         <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
+                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
+                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
                                     </ul>
                                 </nav>
                             </div>

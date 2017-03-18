@@ -51,18 +51,16 @@ article.post {
 }
 
 .post-content {
-    border:1px solid #DFDFDF;
-    padding:10px;
     position:relative;
     overflow:hidden;
 }
 
 .post-inner-date {
     position:absolute;
-    top:7px;
-    left:5px;
+    top:0px;
+    left:0px;
     right:0;
-    margin-left:10px;
+    margin-left:6px;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -71,7 +69,7 @@ article.post {
     bottom:0;
     left:0;
     right:0;
-    margin-bottom:-14px;
+    margin-bottom:-20px;
     margin-right:1px;
     padding:7px;
 }
@@ -97,10 +95,6 @@ article.post {
 span.post-date {
     color:#DFDFDF;
     font-size:12px;
-}
-
-h2.post-title {
-    margin-left:11px;
 }
 
 h2.post-title a {
@@ -135,8 +129,7 @@ h2.post-title a {
  }
 
  .center-post-thumbnail .post-inner-date {
-     margin-top:-10px;
-     margin-left:0;
+     margin-left:6px;
  }
 
 h2.center-post-title {
