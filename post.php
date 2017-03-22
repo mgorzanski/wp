@@ -23,7 +23,38 @@
                     <div class="post-footer">
                         <div class="post-widget">
                         </div>
-                        <div class="post-comments">
+                        <div class="post-comments" id="comments">
+                            <div class="comment" id="1">
+                                <div class="comment-author-thumbnail">
+                                    <a href="#"><img src="images/icons/user.png" alt="" /></a>
+                                </div>
+                                <div class="comment-main">
+                                    <h2 class="comment-author-name"><a href="#">Użytkownik</a></h2>
+                                    <p class="comemnt-date">22.03.2017</p>
+                                    <p class="comment-content">Lorem ipsum dolor sit amet ligula. Suspendisse ultricies viverra neque, congue porta, turpis semper quis, accumsan tincidunt. Nullam sapien. Curabitur eget lectus. Vestibulum nibh. Maecenas nec massa non ante ipsum dolor urna eros nisl, blandit id, congue eleifend.</p>
+                                </div>
+                            </div>
+                            <div class="comment" id="1">
+                                <div class="comment-author-thumbnail">
+                                    <a href="#"><img src="images/icons/user.png" alt="" /></a>
+                                </div>
+                                <div class="comment-main">
+                                    <h2 class="comment-author-name"><a href="#">Użytkownik</a></h2>
+                                    <p class="comemnt-date">22.03.2017</p>
+                                    <p class="comment-content">Lorem ipsum dolor sit amet ligula. Suspendisse ultricies viverra neque, congue porta, turpis semper quis, accumsan tincidunt. Nullam sapien. Curabitur eget lectus. Vestibulum nibh. Maecenas nec massa non ante ipsum dolor urna eros nisl, blandit id, congue eleifend.</p>
+                                </div>
+                                
+                                <div class="comment-reply" id="2">
+                                    <div class="comment-author-thumbnail">
+                                        <a href="#"><img src="images/icons/user.png" alt="" /></a>
+                                    </div>
+                                    <div class="comment-main">
+                                        <h2 class="comment-author-name"><a href="#">Użytkownik</a></h2>
+                                        <p class="comemnt-date">22.03.2017</p>
+                                        <p class="comment-content">Lorem ipsum dolor sit amet ligula. Suspendisse ultricies viverra neque, congue porta, turpis semper quis, accumsan tincidunt. Nullam sapien. Curabitur eget lectus. Vestibulum nibh. Maecenas nec massa non ante ipsum dolor urna eros nisl, blandit id, congue eleifend.</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </article>

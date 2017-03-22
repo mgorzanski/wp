@@ -1,0 +1,31 @@
+.post-comments {
+    margin-top:10px;
+}
+
+.comment {
+    border:1px solid #7dbebd;
+    padding:4px;
+    position:relative;
+    overflow:hidden;
+}
+
+.comment-reply {
+    border:1px solid #7dbebd;
+    padding:4px;
+    position:relative;
+    overflow:hidden;
+}
+
+.comment-author-thumbnail a img {
+    width:55px;
+}
+
+.comment-author-thumbnail {
+    float:left;
+    width:5%;
+}
+
+.comment-main {
+    float:left;
+    width:95%;
+}
