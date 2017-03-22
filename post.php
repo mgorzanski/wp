@@ -24,7 +24,7 @@
                         <div class="post-widget">
                         </div>
                         <div class="post-comments" id="comments">
-                            <div class="comment" id="1">
+                            <!--<div class="comment" id="1">
                                 <div class="comment-author-thumbnail">
                                     <a href="#"><img src="images/icons/user.png" alt="" /></a>
                                 </div>
@@ -55,7 +55,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </article>
             </section>
