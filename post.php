@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-    <div class="container-post">
+    <div class="container">
         <div class="page-content">
             <section class="main">
                 <article class="post-full">
