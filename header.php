@@ -78,9 +78,17 @@
 
             <nav class="links-nav">
                 <ul class="links-menu">
-                    <li><a href="#"><img src="images/icons/fb.png" alt="Facebook" /></a>
-                    <li><a href="#"><img src="images/icons/yt.png" alt="Youtube" /></a>
-                    <li><a href="#"><img src="images/icons/search.png" alt="Szukaj" /></a>
+                    <li><a href="#"><img src="images/icons/fb.png" alt="Facebook" /></a></li>
+                    <li><a href="#"><img src="images/icons/yt.png" alt="Youtube" /></a></li>
+                    <li>
+                        <img src="images/icons/search.png" alt="Szukaj" onclick="showSearch();" />
+                        <div class="search-form">
+                            <form action="" method="get">
+                                <input type="search" name="s" placeholder="Szukaj..." />
+                                <button type="submit">Szukaj</button>
+                            </form>
+                        </div>
+                    <li>
                 </ul>
             </nav>
         </div>
@@ -104,7 +112,15 @@
                 <ul class="links-menu">
                     <li><a href="#"><img src="images/icons/fb.png" alt="Facebook" /></a>
                     <li><a href="#"><img src="images/icons/yt.png" alt="Youtube" /></a>
-                    <li><a href="#"><img src="images/icons/search.png" alt="Szukaj" /></a>
+                    <li>
+                        <img src="images/icons/search.png" alt="Szukaj" onclick="showSearch();" />
+                        <div class="search-form">
+                            <form action="" method="get">
+                                <input type="search" name="s" placeholder="Szukaj..." />
+                                <button type="submit">Szukaj</button>
+                            </form>
+                        </div>
+                    </li>
                 </ul>
             </nav>
         </div>
