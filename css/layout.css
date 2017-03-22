@@ -29,6 +29,7 @@ nav.links-nav {
     float:right;
     width:20%;
     margin-top:8px;
+    position:relative;
 }
 
 ul.links-menu, ul.links-menu li {
@@ -156,10 +157,11 @@ footer p {
     display:none;
     background-color:#7dbebd;
     position:absolute;
-    right:200px;
     z-index:1;
+    right:-100px;
     padding:15px;
     border-radius: 14px;
+    line-height: 0;
 }
 
 .search-form form input {
