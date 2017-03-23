@@ -58,7 +58,3 @@ ul.sidebar-posts-menu a:hover {
 .post-sidebar {
     width:100% !important;
 }
-
-.post-sidebar .post-thumbnail img {
-    height: 409px !important;
-}

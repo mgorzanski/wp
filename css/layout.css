@@ -1,6 +1,6 @@
 .container {
     margin:0 auto;
-    width:1325px;
+    width:1250px;
 }
 
 header.header-static .top {
@@ -9,13 +9,13 @@ header.header-static .top {
 }
 
 header.header-static .logo {
-    width:1325px;
+    width:1250px;
     margin:31px auto 0 auto;
 }
 
 header.header-static .navigation {
     clear:both;
-    width:1325px;
+    width:1250px;
     margin:0 auto;
 }
 
@@ -85,7 +85,7 @@ header.header-fixed {
 
 header.header-fixed .top {
     margin:0 auto;
-    width:1325px;
+    width:1250px;
 }
 
 header.header-fixed .logo {

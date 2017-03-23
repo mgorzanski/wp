@@ -50,7 +50,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="post.php"><img src="images/thumbnails/409x252/image1.jpg" alt="" /></a>
+                                                    <a href="post.php"><img src="images/thumbnails/390x390/image1.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -64,7 +64,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image2.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image2.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -78,7 +78,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image3.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image3.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -92,7 +92,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image4.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image4.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -106,7 +106,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image5.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image5.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -120,7 +120,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image6.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image6.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -134,7 +134,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image4.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image4.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -148,7 +148,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image5.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image5.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -162,7 +162,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image6.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image6.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -176,7 +176,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image2.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image2.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -190,7 +190,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image1.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image1.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -204,7 +204,7 @@
                                         <article class="post col-md-6">
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
-                                                    <a href="#"><img src="images/thumbnails/409x252/image3.jpg" alt="" /></a>
+                                                    <a href="#"><img src="images/thumbnails/390x390/image3.jpg" alt="" /></a>
                                                     <div class="post-inner-date">
                                                         <span class="post-date">04.03.2017</span>
                                                     </div>
@@ -280,7 +280,7 @@
                         <article class="col-md-4 post">
                             <div class="post-content">
                                 <div class="post-thumbnail">
-                                    <a href="#"><img src="images/thumbnails/409x252/image6.jpg" alt="" /></a>
+                                    <a href="#"><img src="images/thumbnails/390x390/image6.jpg" alt="" /></a>
                                     <div class="post-inner-date">
                                         <span class="post-date">04.03.2017</span>
                                     </div>
@@ -294,7 +294,7 @@
                         <article class="col-md-4 post">
                             <div class="post-content">
                                 <div class="post-thumbnail">
-                                    <a href="#"><img src="images/thumbnails/409x252/image5.jpg" alt="" /></a>
+                                    <a href="#"><img src="images/thumbnails/390x390/image5.jpg" alt="" /></a>
                                     <div class="post-inner-date">
                                         <span class="post-date">04.03.2017</span>
                                     </div>
@@ -308,7 +308,7 @@
                         <article class="col-md-4 post">
                             <div class="post-content">
                                 <div class="post-thumbnail">
-                                    <a href="#"><img src="images/thumbnails/409x252/image4.jpg" alt="" /></a>
+                                    <a href="#"><img src="images/thumbnails/390x390/image4.jpg" alt="" /></a>
                                     <div class="post-inner-date">
                                         <span class="post-date">04.03.2017</span>
                                     </div>
@@ -322,7 +322,7 @@
                         <article class="col-md-4 post">
                             <div class="post-content">
                                 <div class="post-thumbnail">
-                                    <a href="#"><img src="images/thumbnails/409x252/image3.jpg" alt="" /></a>
+                                    <a href="#"><img src="images/thumbnails/390x390/image3.jpg" alt="" /></a>
                                     <div class="post-inner-date">
                                         <span class="post-date">04.03.2017</span>
                                     </div>
@@ -336,7 +336,7 @@
                         <article class="col-md-4 post">
                             <div class="post-content">
                                 <div class="post-thumbnail">
-                                    <a href="#"><img src="images/thumbnails/409x252/image2.jpg" alt="" /></a>
+                                    <a href="#"><img src="images/thumbnails/390x390/image2.jpg" alt="" /></a>
                                     <div class="post-inner-date">
                                         <span class="post-date">04.03.2017</span>
                                     </div>
@@ -350,7 +350,7 @@
                         <article class="col-md-4 post">
                             <div class="post-content">
                                 <div class="post-thumbnail">
-                                    <a href="#"><img src="images/thumbnails/409x252/image1.jpg" alt="" /></a>
+                                    <a href="#"><img src="images/thumbnails/390x390/image1.jpg" alt="" /></a>
                                     <div class="post-inner-date">
                                         <span class="post-date">04.03.2017</span>
                                     </div>
