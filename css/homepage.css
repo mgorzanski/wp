@@ -46,7 +46,7 @@ h2.posts-category-title {
 article.post {
     float:left;
     width:50%;
-    margin-bottom:10px;
+    margin-bottom:32px;
     position:relative;
 }
 
@@ -57,16 +57,65 @@ article.post {
 
 .post-inner-date {
     position:absolute;
-    top:0px;
+    bottom:10px;
+    right:0;
+    margin-right:22px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color:#ebebeb;
+    padding:1px;
+    text-transform: uppercase;
+    width:61px;
+    height: 19px;
+    line-height: 20px;
+    text-align: center;
+    opacity:0.71;
+    filter: alpha(opacity=71);
+}
+
+.post-inner-category {
+    position:absolute;
+    bottom:10px;
     left:0px;
     right:0;
     margin-left:6px;
     font-family: 'Open Sans Condensed', sans-serif;
+    background-color:#ebebeb;
+    padding:5px;
+    text-transform: uppercase;
+    width:92px;
+    height: 19px;
+    line-height: 20px;
+    text-align: center;
+    opacity:0.71;
+    filter: alpha(opacity=71);
+}
+
+.post-inner-author {
+    position:absolute;
+    bottom:10px;
+    right:0;
+    left:50%;
+    margin-right:22px;
+    font-size:16px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    height: 14px;
+    line-height: 14px;
+    text-align: center;
+    font-weight: bold;
+}
+
+span.post-author {
+    position:relative;
+    left:-50%;
+    background-color:#747474;
+    padding-left:1px;
+    padding-right:1px;
+    top:-4px;
 }
 
 .post-inner-title {
     position:absolute;
-    bottom:0;
+    bottom:42px;
     left:0;
     right:0;
     margin-bottom:-20px;
@@ -92,15 +141,18 @@ article.post {
     filter: alpha(opacity=80);
 }
 
-span.post-date {
-    color:#DFDFDF;
-    font-size:12px;
+h2.post-title {
+    background-color:#ececec;
+    padding:8px;
+    opacity:0.71;
+    filter: alpha(opacity=71);
+    max-width:320px;
 }
 
 h2.post-title a {
     text-decoration:none;
-    color:#fff;
-    font-size:25px;
+    color:#000;
+    font-size:24px;
     font-weight: normal;
     font-family: 'Capriola', sans-serif;
 }
@@ -108,7 +160,6 @@ h2.post-title a {
 .center-post {
     width:100%;
     float:left;
-    margin-bottom:5px;
 }
 
 .center-post-thumbnail {
@@ -128,20 +179,22 @@ h2.post-title a {
     filter: alpha(opacity=80);
  }
 
- .center-post-thumbnail .post-inner-date {
-     margin-left:6px;
- }
-
 h2.center-post-title {
-    margin-bottom:18px;
-    position:relative;
-    padding:2px;
+    background-color:#ececec;
+    padding:8px;
+    opacity:0.71;
+    filter: alpha(opacity=71);
+    max-width:1020px;
 }
 
 h2.center-post-title a {
     text-decoration:none;
-    color:#fff;
-    font-size:31px;
+    color:#000;
+    font-size:24px;
     font-weight: normal;
     font-family: 'Capriola', sans-serif;
+}
+
+.center-post .post-inner-date {
+    margin-right:6px;
 }

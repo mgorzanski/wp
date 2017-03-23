@@ -51,11 +51,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="post.php"><img src="images/thumbnails/390x390/image1.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="post.php">Młodzi ludzie przyszli tu i grają w stare gry wideo. Piękna lekcja historii</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Mateusz Górzański</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -65,11 +71,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image2.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -79,11 +91,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image3.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -93,11 +111,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image4.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -107,11 +131,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image5.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -121,11 +151,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image6.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -135,11 +171,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image4.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -149,11 +191,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image5.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -163,11 +211,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image6.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -177,11 +231,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image2.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -191,11 +251,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image1.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -205,11 +271,17 @@
                                             <div class="post-content">
                                                 <div class="post-thumbnail">
                                                     <a href="#"><img src="images/thumbnails/390x390/image3.jpg" alt="" /></a>
-                                                    <div class="post-inner-date">
-                                                        <span class="post-date">04.03.2017</span>
-                                                    </div>
                                                     <div class="post-inner-title">
                                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                    </div>
+                                                    <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -229,12 +301,18 @@
                                         <div class="post-content">
                                             <div class="post-thumbnail">
                                                 <a href="#"><img src="images/thumbnails/409x409/image1.jpeg" alt="" /></a>
-                                                <div class="post-inner-date">
-                                                    <span class="post-date">04.03.2017</span>
-                                                </div>
                                                 <div class="post-inner-title">
                                                     <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
                                                 </div>
+                                                <div class="post-inner-category">
+                                                        <span class="post-category">Kategoria</span>
+                                                    </div>
+                                                    <div class="post-inner-author">
+                                                        <span class="post-author">Dawid Burdek</span>
+                                                    </div>
+                                                    <div class="post-inner-date">
+                                                        <span class="post-date">23.05.2017</span>
+                                                    </div>
                                             </div>
                                         </div>
                                     </article>
@@ -242,11 +320,17 @@
                                         <div class="post-content">
                                             <div class="post-thumbnail">
                                                 <a href="#"><img src="images/thumbnails/409x409/image1.jpeg" alt="" /></a>
-                                                <div class="post-inner-date">
-                                                    <span class="post-date">04.03.2017</span>
-                                                </div>
                                                 <div class="post-inner-title">
                                                     <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                </div>
+                                                <div class="post-inner-category">
+                                                    <span class="post-category">Kategoria</span>
+                                                </div>
+                                                <div class="post-inner-author">
+                                                    <span class="post-author">Dawid Burdek</span>
+                                                </div>
+                                                <div class="post-inner-date">
+                                                    <span class="post-date">23.05.2017</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -263,11 +347,17 @@
                             <div class="box">
                                 <div class="center-post-thumbnail">
                                     <a href="#"><img src="images/thumbnails/1326x295/image1.jpg" alt="" /></a>
-                                    <div class="post-inner-date">
-                                        <span class="post-date">04.03.2017</span>
-                                    </div>
                                     <div class="post-inner-title">
                                         <h2 class="center-post-title"><a href="#">Ten laptop jest mocniejszy od prawie każdego peceta. Kosztuje 45 tys. zł i teraz możesz go wypróbować</a></h2>
+                                    </div>
+                                    <div class="post-inner-category">
+                                        <span class="post-category">Kategoria</span>
+                                    </div>
+                                    <div class="post-inner-author">
+                                        <span class="post-author">Dawid Burdek</span>
+                                    </div>
+                                    <div class="post-inner-date">
+                                        <span class="post-date">23.05.2017</span>
                                     </div>
                                 </div>
                             </div>
@@ -281,11 +371,17 @@
                             <div class="post-content">
                                 <div class="post-thumbnail">
                                     <a href="#"><img src="images/thumbnails/390x390/image6.jpg" alt="" /></a>
-                                    <div class="post-inner-date">
-                                        <span class="post-date">04.03.2017</span>
-                                    </div>
                                     <div class="post-inner-title">
                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                    </div>
+                                    <div class="post-inner-category">
+                                        <span class="post-category">Kategoria</span>
+                                    </div>
+                                    <div class="post-inner-author">
+                                        <span class="post-author">Dawid Burdek</span>
+                                    </div>
+                                    <div class="post-inner-date">
+                                        <span class="post-date">23.05.2017</span>
                                     </div>
                                 </div>
                             </div>
@@ -295,11 +391,17 @@
                             <div class="post-content">
                                 <div class="post-thumbnail">
                                     <a href="#"><img src="images/thumbnails/390x390/image5.jpg" alt="" /></a>
-                                    <div class="post-inner-date">
-                                        <span class="post-date">04.03.2017</span>
-                                    </div>
                                     <div class="post-inner-title">
                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                    </div>
+                                    <div class="post-inner-category">
+                                        <span class="post-category">Kategoria</span>
+                                    </div>
+                                    <div class="post-inner-author">
+                                        <span class="post-author">Dawid Burdek</span>
+                                    </div>
+                                    <div class="post-inner-date">
+                                        <span class="post-date">23.05.2017</span>
                                     </div>
                                 </div>
                             </div>
@@ -309,11 +411,17 @@
                             <div class="post-content">
                                 <div class="post-thumbnail">
                                     <a href="#"><img src="images/thumbnails/390x390/image4.jpg" alt="" /></a>
-                                    <div class="post-inner-date">
-                                        <span class="post-date">04.03.2017</span>
-                                    </div>
                                     <div class="post-inner-title">
                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                    </div>
+                                    <div class="post-inner-category">
+                                        <span class="post-category">Kategoria</span>
+                                    </div>
+                                    <div class="post-inner-author">
+                                        <span class="post-author">Dawid Burdek</span>
+                                    </div>
+                                    <div class="post-inner-date">
+                                        <span class="post-date">23.05.2017</span>
                                     </div>
                                 </div>
                             </div>
@@ -323,11 +431,17 @@
                             <div class="post-content">
                                 <div class="post-thumbnail">
                                     <a href="#"><img src="images/thumbnails/390x390/image3.jpg" alt="" /></a>
-                                    <div class="post-inner-date">
-                                        <span class="post-date">04.03.2017</span>
-                                    </div>
                                     <div class="post-inner-title">
                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                    </div>
+                                    <div class="post-inner-category">
+                                        <span class="post-category">Kategoria</span>
+                                    </div>
+                                    <div class="post-inner-author">
+                                        <span class="post-author">Dawid Burdek</span>
+                                    </div>
+                                    <div class="post-inner-date">
+                                        <span class="post-date">23.05.2017</span>
                                     </div>
                                 </div>
                             </div>
@@ -337,11 +451,17 @@
                             <div class="post-content">
                                 <div class="post-thumbnail">
                                     <a href="#"><img src="images/thumbnails/390x390/image2.jpg" alt="" /></a>
-                                    <div class="post-inner-date">
-                                        <span class="post-date">04.03.2017</span>
-                                    </div>
                                     <div class="post-inner-title">
                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                    </div>
+                                    <div class="post-inner-category">
+                                        <span class="post-category">Kategoria</span>
+                                    </div>
+                                    <div class="post-inner-author">
+                                        <span class="post-author">Dawid Burdek</span>
+                                    </div>
+                                    <div class="post-inner-date">
+                                        <span class="post-date">23.05.2017</span>
                                     </div>
                                 </div>
                             </div>
@@ -351,11 +471,17 @@
                             <div class="post-content">
                                 <div class="post-thumbnail">
                                     <a href="#"><img src="images/thumbnails/390x390/image1.jpg" alt="" /></a>
-                                    <div class="post-inner-date">
-                                        <span class="post-date">04.03.2017</span>
-                                    </div>
                                     <div class="post-inner-title">
                                         <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                    </div>
+                                    <div class="post-inner-category">
+                                        <span class="post-category">Kategoria</span>
+                                    </div>
+                                    <div class="post-inner-author">
+                                        <span class="post-author">Dawid Burdek</span>
+                                    </div>
+                                    <div class="post-inner-date">
+                                        <span class="post-date">23.05.2017</span>
                                     </div>
                                 </div>
                             </div>
