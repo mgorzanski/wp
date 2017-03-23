@@ -4,7 +4,6 @@
 }
 
 header.header-static .top {
-    border-bottom:3px solid #7dbebd;
     float:left;
     width:100%;
 }
@@ -23,12 +22,13 @@ header.header-static .navigation {
 header.header-static nav.header-nav {
     float:left;
     width:80%;
+    margin-top:-5px;
 }
 
 nav.links-nav {
     float:right;
     width:20%;
-    margin-top:8px;
+    margin-top:3px;
     position:relative;
 }
 

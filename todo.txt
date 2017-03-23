@@ -1,0 +1,4 @@
+- komunikat o plikach cookies
+- semantycznoœæ szablonu
+- wersja na telefony
+- wersja na tablety

@@ -224,17 +224,34 @@
                         <div class="box">
                             <div class="widget">
                                 <h2 class="sidebar-title">Gorące tematy</h2>
-                                <nav class="sidebar-posts-nav">
-                                    <ul class="sidebar-posts-menu">
-                                        <li><a href="#">Ten laptop jest mocniejszy od prawie każdego peceta. Kosztuje 45 tys. zł i teraz możesz go wypróbować</a></li>
-                                        <li><a href="#">Młodzi ludzie przyszli tu i grają w stare gry wideo. Piękna lekcja historii</a></li>
-                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta Nazwa posta</a></li>
-                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
-                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
-                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
-                                        <li><a href="#">Nazwa posta Nazwa posta Nazwa posta</a></li>
-                                    </ul>
-                                </nav>
+                                <div class="posts">
+                                    <article class="post post-sidebar">
+                                        <div class="post-content">
+                                            <div class="post-thumbnail">
+                                                <a href="#"><img src="images/thumbnails/409x409/image1.jpeg" alt="" /></a>
+                                                <div class="post-inner-date">
+                                                    <span class="post-date">04.03.2017</span>
+                                                </div>
+                                                <div class="post-inner-title">
+                                                    <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                    <article class="post post-sidebar">
+                                        <div class="post-content">
+                                            <div class="post-thumbnail">
+                                                <a href="#"><img src="images/thumbnails/409x409/image1.jpeg" alt="" /></a>
+                                                <div class="post-inner-date">
+                                                    <span class="post-date">04.03.2017</span>
+                                                </div>
+                                                <div class="post-inner-title">
+                                                    <h2 class="post-title"><a href="#">Tytuł posta</a></h2>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
                             </div>
                         </div>
                     </div>

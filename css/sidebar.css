@@ -9,13 +9,14 @@ h2.sidebar-title {
     font-weight: bold;
     height: 38px;
     margin-top:4px;
-    margin-bottom:0;
+    margin-bottom:-13px;
 }
 
 .widget {
     overflow:hidden;
     position:relative;
     border:1px solid #DFDFDF;
+    background-color:#E8E8E8;
     padding:10px;
     margin-bottom:115px;
 }
@@ -52,4 +53,12 @@ ul.sidebar-posts-menu a:link, ul.sidebar-posts-menu a:visited {
 ul.sidebar-posts-menu a:hover {
     text-decoration:underline;
     color:#000;
+}
+
+.post-sidebar {
+    width:100% !important;
+}
+
+.post-sidebar .post-thumbnail img {
+    height: 409px !important;
 }
