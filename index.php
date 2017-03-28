@@ -42,7 +42,7 @@
 
             <section class="main">
                 <div class="row">
-                    <div class="col-md-8">
+                    <div class="feed col-md-8">
                         <div class="box">
                             <div class="posts">
                                 <div class="row">

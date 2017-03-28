@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Webowo.pl</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
@@ -16,6 +17,7 @@
     <link rel="stylesheet" href="css/sidebar.css" type="text/css" />
     <link rel="stylesheet" href="css/post-full.css" type="text/css" />
     <link rel="stylesheet" href="css/comments.css" type="text/css" />
+    <link rel="stylesheet" href="css/mobile.css" type="text/css" />
     <link rel="shortcut icon" href="images/icons/favicon.ico" type="image/x-icon" />
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src="js/jssor.slider-22.2.11.min.js" type="text/javascript"></script>
