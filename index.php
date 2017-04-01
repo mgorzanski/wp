@@ -2,29 +2,29 @@
     <div class="container">
         <div class="page-content">
             <section class="slider">
-                <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:1500px;height:400px;overflow:hidden;visibility:hidden;">
+                <div class="homepage-slider" id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;overflow:hidden;visibility:hidden;">
                     <!-- Loading Screen -->
                     <div data-u="loading" class="jssorl-oval" style="position:absolute;top:0px;left:0px;text-align:center;background-color:rgba(0,0,0,0.7);">
                         <img style="margin-top:-19.0px;position:relative;top:50%;width:38px;height:38px;" src="images/oval.svg" />
                     </div>
-                    <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1500px;height:400px;overflow:hidden;">
+                    <div class="slides" data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;overflow:hidden;">
                         <a data-u="any" href="http://www.jssor.com" style="display:none">Full Width Slider</a>
                         <div>
                             <img data-u="image" src="images/thumbnails/1500x400/image1.jpg" />
-                            <div style="position:absolute;bottom:42px;left:100px;right:100px;z-index:0;background-color:rgba(0,0,0,0.5);">
-                                <div style="z-index:0;font-size:30px;color:#fff;line-height:40px;padding:7px;">Tytuł posta Tytuł posta Tytuł postaTytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł postaTytuł posta</div>
+                            <div style="position:absolute;bottom:42px;z-index:0;background-color:rgba(0,0,0,0.5);">
+                                <div style="z-index:0;color:#fff;">Tytuł posta Tytuł posta Tytuł posta</div>
                             </div>
                         </div>
                         <div>
                             <img data-u="image" src="images/thumbnails/1500x400/image2.jpg" />
-                            <div style="position:absolute;bottom:42px;left:100px;right:100px;z-index:0;background-color:rgba(0,0,0,0.5);">
-                                <div style="z-index:0;font-size:30px;color:#fff;line-height:40px;padding:7px;">Tytuł posta Tytuł posta Tytuł postaTytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł postaTytuł posta</div>
+                            <div style="position:absolute;bottom:42px;z-index:0;background-color:rgba(0,0,0,0.5);">
+                                <div style="z-index:0;color:#fff;">Tytuł posta Tytuł posta Tytuł postaTytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł postaTytuł posta</div>
                             </div>
                         </div>
                         <div>
                             <img data-u="image" src="images/thumbnails/1500x400/image3.jpg" />
-                            <div style="position:absolute;bottom:42px;left:100px;right:100px;z-index:0;background-color:rgba(0,0,0,0.5);">
-                                <div style="z-index:0;font-size:30px;color:#fff;line-height:40px;padding:7px;">Tytuł posta Tytuł posta Tytuł postaTytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł postaTytuł posta</div>
+                            <div style="position:absolute;bottom:42px;z-index:0;background-color:rgba(0,0,0,0.5);">
+                                <div style="z-index:0;color:#fff;">Tytuł posta Tytuł posta Tytuł postaTytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł posta Tytuł postaTytuł posta</div>
                             </div>
                         </div>
                     </div>
@@ -34,8 +34,8 @@
                         <div data-u="prototype" style="width:16px;height:16px;"></div>
                     </div>
                     <!-- Arrow Navigator -->
-                    <span data-u="arrowleft" class="jssora22l" style="top:0px;left:8px;width:40px;height:58px;" data-autocenter="2"></span>
-                    <span data-u="arrowright" class="jssora22r" style="top:0px;right:8px;width:40px;height:58px;" data-autocenter="2"></span>
+                    <span data-u="arrowleft" class="jssora22l" data-autocenter="2"></span>
+                    <span data-u="arrowright" class="jssora22r" data-autocenter="2"></span>
                 </div>
                 <!-- #endregion Jssor Slider End -->
             </section>

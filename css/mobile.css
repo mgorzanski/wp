@@ -35,6 +35,11 @@
         margin-top:12px;
     }
 
+    header.header-static ul.header-menu a {
+        -webkit-transition: background-color 1s, color 1s;
+        transition: background-color 1s, color 1s;
+    }
+
     header.header-static ul.header-menu a:link, header.header-static ul.header-menu a:visited {
         display:block;
         text-decoration: none;
@@ -44,7 +49,9 @@
     }
 
     header.header-static ul.header-menu a:hover {
-        text-decoration: underline;
+        text-decoration: none;
+        color:#fff;
+        background-color:#333;
     }
 
     header.header-fixed {
@@ -69,6 +76,33 @@
     .sidebar {
         display:none !important;
     }
+
+    .homepage-slider {
+        width:480px !important;
+        height: 300px !important;
+    }
+
+    .slides {
+        width:480px !important;
+        height: 300px !important;
+    }
+
+    .slides div img {
+        width:1125px !important;
+        height: 300px !important;
+    }
+
+    .slides div div {
+        font-size:24px;
+        line-height:30px;
+        padding:3px;
+    }
+
+    .slides div {
+        left:60px;
+        right:60px;
+    }
+
 
 
 }

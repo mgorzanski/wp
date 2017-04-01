@@ -198,3 +198,34 @@ h2.center-post-title a {
 .center-post .post-inner-date {
     margin-right:6px;
 }
+
+.homepage-slider {
+    width:1500px;
+    height: 400px;
+}
+
+.slides {
+    width:1500px;
+    height: 400px;
+}
+
+.slides div {
+    left:100px;
+    right:100px;
+}
+
+.slides div div {
+    font-size:30px;
+    line-height:40px;
+    padding:7px;
+}
+
+.jssora22l, .jssora22r {
+    width:40px;
+    height:58px;
+    top:0px;
+}
+
+.jssora22l { left:8px; }
+
+.jssora22r { right:8px; }
